@@ -222,7 +222,7 @@ $(document).ready(function () {
     if (current_time > ten_hours) {
 
         $(document).ready(function () {
-            $(tenSlot).css({ backgroundColor: 'red' });
+            $(tenSlot).css({ backgroundColor: '#ffcccb' });
         });
     }
 });
@@ -233,7 +233,7 @@ $(document).ready(function () {
     if (current_time > elven_hours) {
 
         $(document).ready(function () {
-            $(elevenSlot).css({ backgroundColor: 'red' });
+            $(elevenSlot).css({ backgroundColor: '#ffcccb' });
         });
     }
 });
@@ -243,7 +243,7 @@ $(document).ready(function () {
     if (current_time > twelve) {
 
         $(document).ready(function () {
-            $(twelveSlot).css({ backgroundColor: 'red' });
+            $(twelveSlot).css({ backgroundColor: '#ffcccb' });
         });
     }
 });
@@ -253,7 +253,7 @@ $(document).ready(function () {
     if (current_time > one_hour) {
 
         $(document).ready(function () {
-            $(oneSlot).css({ backgroundColor: 'red' });
+            $(oneSlot).css({ backgroundColor: '#ffcccb' });
         });
     }
 });
@@ -263,7 +263,7 @@ $(document).ready(function () {
     if (current_time > two) {
 
         $(document).ready(function () {
-            $(twoSlot).css({ backgroundColor: 'red' });
+            $(twoSlot).css({ backgroundColor: '#ffcccb' });
         });
     }
 });
@@ -273,7 +273,7 @@ $(document).ready(function () {
     if (current_time > three) {
 
         $(document).ready(function () {
-            $(threeSlot).css({ backgroundColor: 'red' });
+            $(threeSlot).css({ backgroundColor: '#ffcccb' });
         });
     }
 });
@@ -283,7 +283,7 @@ $(document).ready(function () {
     if (current_time > four) {
 
         $(document).ready(function () {
-            $(fourSlot).css({ backgroundColor: 'red' });
+            $(fourSlot).css({ backgroundColor: '#ffcccb' });
         });
     }
 });
@@ -293,7 +293,7 @@ $(document).ready(function () {
     if (current_time > five) {
 
         $(document).ready(function () {
-            $(fiveSlot).css({ backgroundColor: 'red' });
+            $(fiveSlot).css({ backgroundColor: '#ffcccb' });
         });
     }
 });
